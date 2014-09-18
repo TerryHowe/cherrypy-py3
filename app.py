@@ -5,7 +5,7 @@ import cherrypy
 class HelloWorld:
     def index(self):
         pyver = '.'.join(map(str, tuple(sys.version_info)[:3]))
-        return "Hello world! (from Python %s)" % pyver
+        return "Hello wurld! (from Python %s)" % pyver
     index.exposed = True
 
 
