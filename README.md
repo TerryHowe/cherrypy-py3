@@ -1,6 +1,6 @@
 # A minimal Python 3 CherryPy application 
 
-This is a Hello World app demonstrating a Python 3 based web application using
+This is a hello world app demonstrating a Python 3 based web application using
 [CherryPy](http://www.cherrypy.org/).
 
 ## Local development
